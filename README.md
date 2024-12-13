@@ -1,33 +1,43 @@
 # Hectik.TV
-hectik tv
+Hectik
 
 Users log in with their wallets 
 
-Users upload a video and press 'publish' 
+Users 'mint' a profile which  creates a billion @profile tokens, (for example @SlitneyPears token) 
 
-Each piece of content has 1 million tokens issued. 
+Users upload their videos and press 'publish' 
 
-Content creators own 100% of the tokens. 
+Each piece of content has 1 billion tokens issued against it which act as 'shares' in the content. 
 
-Content creators gift 1% of teh tokens to Hectik TV
+The content publishers recieve 99% of the tokens. 
 
-Viewers log into Hectik TV to watch videos. 
+Hectik retains 1% of the tokens of all profiles and all content 
 
-Users charge viewers to watch their videos. 
+Viewers log into Hectik to buy tokens. 
 
-Every viewer recieves a token when they pay to watch a movie. 
+Users can set the price of the tokens, give them away for free, and give them away in return for views. Users can also charge viewers to view their content. 
 
-Revenue is streamed to the token holders. 
+Viewers buy/receive tokens which they can collect, hoard, transfer and sell on the open market 
 
-Hector Lopez is CEO 
+Revenue from creators is streamed to the token holders. 
 
-Stephan February is CTO 
+Users can also buy @Profile tokens to monetize their favourite creators.
 
-Alex Sats is COO  
+- Market for Content Tokens
+- Market for Creator Tokens
+- Leaderboard
 
-Rafael LaVerde is CMO
+  
 
-Coffee Guy is CFO
+Hector Lopez: CEO 
 
-Bozo is Bozo 
+Stephan February: CTO 
+
+Alex Sats: COO  
+
+Rafael LaVerde: CMO
+
+Coffee Guy: CFO
+
+Bozo: Bozo 
 
