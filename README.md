@@ -1,2 +1,2 @@
-# Hestia
+# Hectik
 hectik tv
