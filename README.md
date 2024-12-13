@@ -1,4 +1,4 @@
-# Hectik
+# Hectik.TV
 hectik tv
 
 Users log in with their wallets 
