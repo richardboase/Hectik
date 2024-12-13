@@ -23,11 +23,11 @@ Hector Lopez is CEO
 
 Stephan February is CTO 
 
-Alex Sats is CFO  
+Alex Sats is COO  
 
 Rafael LaVerde is CMO
 
-Coffee Guy is Coffee Guy 
+Coffee Guy is CFO
 
-Bozo 
+Bozo is Bozo 
 
