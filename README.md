@@ -17,6 +17,17 @@ Users charge viewers to watch their videos.
 
 Every viewer recieves a token when they pay to watch a movie. 
 
-Revenue is streamed to the shareholders. 
+Revenue is streamed to the token holders. 
 
+Hector Lopez is CEO 
+
+Stephan February is CTO 
+
+Alex Sats is CFO  
+
+Rafael LaVerde is CMO
+
+Coffee Guy is Coffee Guy 
+
+Bozo 
 
